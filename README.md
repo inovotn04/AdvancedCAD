@@ -11,7 +11,7 @@ Skateboard :)
 
 ### Images
 
-![Skateboard :)](https://github.com/inovotn04/AdvancedCAD/edit/main/Images/Skateboard.png?raw=true)
+![Skateboard :)](https://github.com/inovotn04/AdvancedCAD/blob/main/Images/Skateboard.png?raw=true)
 
 ### Reflection
 
