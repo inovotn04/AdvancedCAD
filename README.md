@@ -11,7 +11,7 @@ Skateboard :)
 
 ### Images
 
-
+![Gross Little GIF](https://github.com/inovotn04/AdvancedCAD/edit/main/Images/Skateboard.png)
 
 ### Reflection
 
