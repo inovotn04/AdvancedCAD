@@ -10,7 +10,7 @@ My description of the Skateboard :)
 
 ### The Deck
 Image AND relfectrion in each 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500">
+<img src="AdvancedCAD/Images/Skateboard.png" alt="Skateboard :)" width="500">
 
 ### The Trucks 
 
