@@ -10,10 +10,16 @@ My description of the Skateboard :)
 
 ### The Deck
 Image AND relfectrion in each 
-<img src="Images/Skateboard.png" alt="Skateboard :)" width="500">
+<img src="Images/decksc.png" alt="Deck :)" width="500">
 
 ### The Trucks 
 
+<img src="Images/truckssc.png" alt="Trucks :)" width="500">
+
 ### The Wheel and Bearing
 
+<img src="Images/wheelsc.png" alt="Wheel :)" width="500">
+
 ### Assembly
+
+<img src="Images/assemblysc.png" alt="Assembly :)" width="500">
