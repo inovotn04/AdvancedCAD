@@ -3,7 +3,8 @@
 ## Skateboard :)
 ![Skateboard :)](https://github.com/inovotn04/AdvancedCAD/blob/main/Images/Skateboard.png?raw=true)
 
-My description of the Skateboard :)
+### Description
+Made a real nice to scale model of a skateboard in Onshape. It helped in practicing some onshape skills which I may have already known but needed a bit of a refresher in. The main goal was to make it look good and to make sure all the measurements were correct and it went alright overall (like no errors or anything like that, I don't know.)
 
 ### Link
 [Skateboard :)](https://cvilleschools.onshape.com/documents/7101b0ae21cf2c3408e82262/w/627eb570c47ef1134c3f0e7a/e/ea5916481316ccc3d8594f33?renderMode=0&uiState=61701fa1b5044d58e2fe7d55)
