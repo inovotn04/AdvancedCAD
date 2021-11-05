@@ -15,6 +15,7 @@ Made a real nice to scale model of a skateboard in Onshape. It helped in practic
 
 #### Reflection
 The deck went incredibly smoothly I had no problems with it nor could I really anticipate any obvious problems. 
+
 A few tips though:
 * Use keyboard shortcuts
   * Shift + S to create a sketch
@@ -28,6 +29,7 @@ A few tips though:
 
 #### Reflection
 The trucks WOULD have gone smoothly but there was some random problem with the holes not being there, I literally do not know how I fixed it, however the advice I can give is to make sure the holes are there BEFORE moving on because otherwise you have to roll it back and stuff and it's just a big pain.
+
 More tips:
 * Once again pay attention to the tools you're using, like the offset and use tool, as they can often be useful in the future.
 * More keyboard shortcuts:
@@ -41,6 +43,7 @@ More tips:
 
 #### Reflection
 The wheels and bearings went really smoothly as well, the measurements for the bearings are bit strange though, like how it dimensions from the edge instead of dimensions as a radius. So just make sure you get those right.
+
 Tips:
 * Using the revolve tool is another good example of **design intent** as well as just making your own life easier, wheels are round so we make a revolve, which is a lot easier than an extrude
 * MORE keyboard shortcuts:
@@ -54,6 +57,7 @@ Tips:
 #### Reflection
 
 Assemblies are always easy peasy especially since onshape makes it so easy. The one problem is mating screws is really finicky however that's mostly just a time thing and less of an actual problem to figure out.
+
 Tips:
 * What makes putting in screws easier is the replicate tool, which replicates a part across a common edge, plane, feature etc. so just make sure to keep that in mind if you're ever having to put in a lot of the same thing.
 * Keep in mind which mate connectors you're using when mating, where they are, etc. try to keep them consistent if you're mating the same type of part in a similar spot.
